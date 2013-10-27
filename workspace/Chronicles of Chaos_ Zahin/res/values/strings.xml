@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chronicles of Chaos: Zahin</string>
+    <string name="gameTitle">Title</string>
+    <string name="btnContinuar">Continuar</string>
+    <string name="btnNuevaPartida">Nueva Partida</string>
+    <string name="btnSalir">Salir</string>
+    <string name="lblCargando">Cargando</string>
+    <string name="lblNombre">Nombre:</string>
+    <string name="lblSexo">Sexo:</string>
+    <string name="lblHombre">Hombre</string>
+    <string name="lblMujer">Mujer</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="BotonMagia">Botón Magia</string>
+    <string name="BotonX">Botón X</string>
+    <string name="BotonY">Botón Y</string>
+
+</resources>
